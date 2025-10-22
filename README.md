@@ -28,7 +28,7 @@
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanssip15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanssip15&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+*[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanssip15&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)*
 
 
 ## 🔗 Connect with Me
