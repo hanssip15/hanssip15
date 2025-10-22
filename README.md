@@ -28,14 +28,6 @@
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanssip15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-*[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanssip15&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)*
-
-
-## 🔗 Connect with Me
-
-*[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([Your LinkedIn URL])*
-*[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([Your Twitter URL])*
-*[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=browser&logoColor=white)]([Your Portfolio URL])*
 
 ---
 
